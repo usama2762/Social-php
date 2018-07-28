@@ -1,0 +1,1 @@
+You can increase your website speed even more by using the .htaccess code in your .htaccess file on your web hosting server.

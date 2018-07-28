@@ -1,0 +1,461 @@
+
+
+<div class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-body">
+            <article class="content-r content-d" id="div1">
+                <div class="row">
+                    <div class="col-md-3 col-sm-3 col-xs-11">
+                        <h1>My Services</h1>
+					</div>
+                    <div class="col-md-1 col-sm-1 col-xs-1 col-sm-push-8 col-centered">
+                        <a class="anchorLink showSingle fa fa-minus-square-o fa-2x" data-dismiss="modal"></a>
+					</div>
+                    <div class="col-md-8 col-sm-8 col-xs-12 col-sm-pull-1">
+                        <div class="service-input">
+                            <label class="fa fa-search flatui" for="problem"></label><input class="form-control filter feedback-input" id="problem" placeholder="Search the services I provide..." type="text">
+						</div>
+					</div>
+				</div>
+                <div class="border"></div>
+                <div class="row skills">
+                    <div class="col-sm-2 col-xs-4">
+                        <button class="skill btn btn-primary" data-target="allServices" data-toggle="servicesFilter">All</button>
+					</div>
+                                                                <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Interior"> Interior</button>
+						</div>
+					                        <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Exterior"> Exterior</button>
+						</div>
+					                        <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Plumbing"> Plumbing</button>
+						</div>
+					                        <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Electrical"> Electrical</button>
+						</div>
+					                        <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Garages"> Garages</button>
+						</div>
+					                        <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Fiverr"> Fiverr</button>
+						</div>
+									</div>
+                <div class="border"></div>
+                <!-- Content -->
+                <div class="resume">
+                        <section class="row" data-tag="Interior" id="interior">
+        <div class="col-md-2 col-sm-2">
+            <h3>Interior</h3>
+		</div>
+        <div class="col-md-10 col-sm-10">
+            <div class="rcontent">
+                <div class="row skills">
+                    <ul class="searchable">
+						
+                        services/take-care-of-fix-it-lists.html<li class="col-md-6 col-sm-6">
+											<a href="services/take-care-of-fix-it-lists" data-toggle="modal" data-target="#servicesModal" data-title="services/take-care-of-fix-it-lists" name=0>Take care of fix-it lists
+											</a>
+										</li>
+services/install-and-replace-appliances-and-stuff.html<li class="col-md-6 col-sm-6">
+											<a href="services/install-and-replace-appliances-and-stuff" data-toggle="modal" data-target="#servicesModal" data-title="services/install-and-replace-appliances-and-stuff" name=1>Install and replace appliances and stuff
+											</a>
+										</li>
+services/troubleshoot-most-problems-in-your-home.html<li class="col-md-6 col-sm-6">
+											<a href="services/troubleshoot-most-problems-in-your-home" data-toggle="modal" data-target="#servicesModal" data-title="services/troubleshoot-most-problems-in-your-home" name=2>Troubleshoot most problems in your home
+											</a>
+										</li>
+services/overall-general-home-maintenance.html<li class="col-md-6 col-sm-6">
+											<a href="services/overall-general-home-maintenance" data-toggle="modal" data-target="#servicesModal" data-title="services/overall-general-home-maintenance" name=3>Overall general home maintenance
+											</a>
+										</li>
+services/general-to-do-list.html<li class="col-md-6 col-sm-6">
+											<a href="services/general-to-do-list" data-toggle="modal" data-target="#servicesModal" data-title="services/general-to-do-list" name=4>General To-Do-List
+											</a>
+										</li>
+services/water-pet-damage-cracks.html<li class="col-md-6 col-sm-6">
+											<a href="services/water-pet-damage-cracks" data-toggle="modal" data-target="#servicesModal" data-title="services/water-pet-damage-cracks" name=5>(Water & Pet Damage/Cracks)
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=5>Door Repair/Replacement
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=5>Window/Screen/Repairs
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=5>Grout Repair/Replace/Seal
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=5>Shelving and Shoe Racks
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=5>Tile Repair/Replace/Seal
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=5>Caulking/Silicone
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=5>(Tubs/Sinks/Showers/Counters)
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=5>Repair or Replace General Hardware
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=5>Lube and Clean Windows
+											</a>
+										</li>
+services/paint-stain-doors-trim-moldings.html<li class="col-md-6 col-sm-6">
+											<a href="services/paint-stain-doors-trim-moldings" data-toggle="modal" data-target="#servicesModal" data-title="services/paint-stain-doors-trim-moldings" name=6>Paint & Stain Doors/Trim/Moldings
+											</a>
+										</li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	</section>
+	
+    <div class="border" data-tag="Interior"></div>
+        <section class="row" data-tag="Exterior" id="exterior">
+        <div class="col-md-2 col-sm-2">
+            <h3>Exterior</h3>
+		</div>
+        <div class="col-md-10 col-sm-10">
+            <div class="rcontent">
+                <div class="row skills">
+                    <ul class="searchable">
+						
+                        services/dfhndfghdgh.html<li class="col-md-6 col-sm-6">
+											<a href="services/dfhndfghdgh" data-toggle="modal" data-target="#servicesModal" data-title="services/dfhndfghdgh" name=6>dfhndfghdgh
+											</a>
+										</li>
+services/dfhndfghdgh.html<li class="col-md-6 col-sm-6">
+											<a href="services/dfhndfghdgh" data-toggle="modal" data-target="#servicesModal" data-title="services/dfhndfghdgh" name=7>dfhndfghdgh
+											</a>
+										</li>
+services/exterior-leak-repair-specialist.html<li class="col-md-6 col-sm-6">
+											<a href="services/exterior-leak-repair-specialist" data-toggle="modal" data-target="#servicesModal" data-title="services/exterior-leak-repair-specialist" name=8>Exterior Leak Repair Specialist
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>(Windows/Doors/Siding/Wall)
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Repair Siding/Soffit/Fascia
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Weather Stripping Of Doors & Windows
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Install Security Locks
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>(Water & Pet Damage/Cracks)
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Door Repair/Replacement
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Window/Screen/Repairs
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Extend Gutter Downspouts
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Gutter Cleaning and Repair
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Mail Box Repairs/Replacements
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Steps/Stoop/Railing/Walk Way
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Repair or Replace General Hardware
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Low Voltage Lighting Maintenance
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Entry Door-Repair/Replace
+											</a>
+										</li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	</section>
+	
+    <div class="border" data-tag="Exterior"></div>
+        <section class="row" data-tag="Plumbing" id="plumbing">
+        <div class="col-md-2 col-sm-2">
+            <h3>Plumbing</h3>
+		</div>
+        <div class="col-md-10 col-sm-10">
+            <div class="rcontent">
+                <div class="row skills">
+                    <ul class="searchable">
+						
+                        services/replace-old-plumbing-with-new-plumbing-under-sinks-etc.html<li class="col-md-6 col-sm-6">
+											<a href="services/replace-old-plumbing-with-new-plumbing-under-sinks-etc" data-toggle="modal" data-target="#servicesModal" data-title="services/replace-old-plumbing-with-new-plumbing-under-sinks-etc" name=8>Replace old plumbing with new plumbing under sinks, etc
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Repair slab leaks and plumbing leaks in walls
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Install faucets, vanities, etc
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Repair Drips and Leaks
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Install New Faucets
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Washing Machine Upgrades
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>(Install Stainless Steel Water Fill Hoses)
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Repair Toilets & Seals
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Install Shower Heads/Diverters/Aerators
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Hose Bib Repair
+											</a>
+										</li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	</section>
+	
+    <div class="border" data-tag="Plumbing"></div>
+        <section class="row" data-tag="Electrical" id="electrical">
+        <div class="col-md-2 col-sm-2">
+            <h3>Electrical</h3>
+		</div>
+        <div class="col-md-10 col-sm-10">
+            <div class="rcontent">
+                <div class="row skills">
+                    <ul class="searchable">
+						
+                        services/change-switched-lights-to-dimmers.html<li class="col-md-6 col-sm-6">
+											<a href="services/change-switched-lights-to-dimmers" data-toggle="modal" data-target="#servicesModal" data-title="services/change-switched-lights-to-dimmers" name=8>Change switched lights to dimmers.
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Redirect switched to other locations
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Security Lighting & Post Lamps
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Repair Drips and Leaks
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Clean/Repair/Replace Bath Exhaust Fans
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Repair/Replace Light Fixtures
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Install Energy Saving Light Bulbs
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Repair/Replace Ceiling Fans
+											</a>
+										</li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	</section>
+	
+    <div class="border" data-tag="Electrical"></div>
+        <section class="row" data-tag="Garages" id="garages">
+        <div class="col-md-2 col-sm-2">
+            <h3>Garages</h3>
+		</div>
+        <div class="col-md-10 col-sm-10">
+            <div class="rcontent">
+                <div class="row skills">
+                    <ul class="searchable">
+						
+                        services/complete-door-lube.html<li class="col-md-6 col-sm-6">
+											<a href="services/complete-door-lube" data-toggle="modal" data-target="#servicesModal" data-title="services/complete-door-lube" name=8>Complete Door Lube
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Tracks/Rollers/Hardware/Weather Stripping
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Pressure Wash Floor
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Install Storage Shelving
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Clean-up and Organize
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Install Storage Shelving
+											</a>
+										</li>
+<li class="col-md-6 col-sm-6">
+											<a href="#" data-toggle="modal" data-target="#servicesModal" data-title="#" name=8>Junk Removal and stuff
+											</a>
+										</li>
+					</ul> 
+				</div>
+			</div>
+		</div>
+	</section>
+	
+    <div class="border" data-tag="Garages"></div>
+        <section class="row" data-tag="Fiverr" id="fiverr">
+        <div class="col-md-2 col-sm-2">
+            <h3>Fiverr</h3>
+		</div>
+        <div class="col-md-10 col-sm-10">
+            <div class="rcontent">
+                <div class="row skills">
+                    <ul class="searchable">
+						
+                        					</ul> 
+				</div>
+			</div>
+		</div>
+	</section>
+	
+    <div class="border" data-tag="Fiverr"></div>
+                        			<section id="Contact-Row" class="row">
+				<div class="col-md-2 col-sm-2">
+					<h3>Contact Me</h3>
+				</div>
+				<div class="col-md-10 col-sm-10">
+					<div class="rcontent">
+						Can't find what you need done? Contact me to see if it is a service I provide.
+						<div class="row skills">
+							<div class="col-sm-4">
+								<a href="tel:+1-123-456-7890" class="skill btn btn-primary fa fa-phone">123-456-7890</a>
+							</div>
+							<!-- Button to trigger modals -->
+							<div class="col-sm-4">
+								<a data-toggle="modal" href="#myModal"><button class="skill btn btn-alert"><i class="fa fa-money"></i> Free Estimate</button></a>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://dcgold.net/r/schedule/"><button class="skill btn btn-default"><i class="fa fa-calendar"></i> Schedule Service</button></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+				</div>
+			</article>
+		</div>
+	</div>
+</div>
+
+
+<script>
+	
+	blueimp.Gallery.prototype.textFactory = function (obj, callback) {
+		var $element = $('<div>')
+		.addClass('text-content')
+		.attr('title', obj.title);
+		$.get(obj.href)
+        .done(function (result) {
+            $element.html(result);
+            callback({
+                type: 'load',
+                target: $element[0]
+			});
+		})
+        .fail(function () {
+            callback({
+                type: 'error',
+                target: $element[0]
+			});
+		});
+		return $element[0];
+	};
+	
+	var flag=1;
+    
+	$("a[data-target=#servicesModal]").click(function (e) {
+		e.preventDefault();
+		//if(flag==1){
+		if($(this).attr("data-title")!="#")
+		{
+		var gallery=blueimp.Gallery([		
+					{title: 'Take care of fix-it lists',href: 'detail-modal.php?page=services/take-care-of-fix-it-lists',type: 'text/html'},{title: 'Install and replace appliances and stuff',href: 'detail-modal.php?page=services/install-and-replace-appliances-and-stuff',type: 'text/html'},{title: 'Troubleshoot most problems in your home',href: 'detail-modal.php?page=services/troubleshoot-most-problems-in-your-home',type: 'text/html'},{title: 'Overall general home maintenance',href: 'detail-modal.php?page=services/overall-general-home-maintenance',type: 'text/html'},{title: 'General To-Do-List',href: 'detail-modal.php?page=services/general-to-do-list',type: 'text/html'},{title: '(Water & Pet Damage/Cracks)',href: 'detail-modal.php?page=services/water-pet-damage-cracks',type: 'text/html'},{title: 'Paint & Stain Doors/Trim/Moldings',href: 'detail-modal.php?page=services/paint-stain-doors-trim-moldings',type: 'text/html'},{title: 'dfhndfghdgh',href: 'detail-modal.php?page=services/dfhndfghdgh',type: 'text/html'},{title: 'dfhndfghdgh',href: 'detail-modal.php?page=services/dfhndfghdgh',type: 'text/html'},{title: 'Exterior Leak Repair Specialist',href: 'detail-modal.php?page=services/exterior-leak-repair-specialist',type: 'text/html'},{title: '(Water & Pet Damage/Cracks)',href: 'detail-modal.php?page=services/water-pet-damage-cracks',type: 'text/html'},{title: 'Replace old plumbing with new plumbing under sinks, etc',href: 'detail-modal.php?page=services/replace-old-plumbing-with-new-plumbing-under-sinks-etc',type: 'text/html'},{title: 'Change switched lights to dimmers.',href: 'detail-modal.php?page=services/change-switched-lights-to-dimmers',type: 'text/html'},{title: 'Complete Door Lube',href: 'detail-modal.php?page=services/complete-door-lube',type: 'text/html'},				], $('#blueimp-gallery').data());
+			//flag=0;
+			//}
+			if($(this).attr("name")!=0){
+				gallery.slide($(this).attr("name"));
+			}
+		}
+	});
+	$(".anchorLink").click(function (e) {
+	gallery.close();
+	});
+	
+	
+	// Filter 
+    $(document).on("click", ".filter", function (event) {
+        (function ($) {
+            $('.filter').keyup(function () {
+                var rex = new RegExp($(this).val(), 'i');
+                $('.searchable li').hide();
+                $('.searchable li').filter(function () {
+                    return rex.test($(this).text());
+				}).show();
+			})
+		}(jQuery));
+	});
+    
+</script>

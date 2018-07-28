@@ -1,0 +1,187 @@
+
+            <div class="modal-dialog">
+                <div class="modal-content">                 
+                    <form class="form-horizontal contact">
+                        <div class="modal-body">
+                            <div class="row">
+                                <div class="col-xs-11">
+                                    <h1> &nbsp; Contact Me for a Free Estimate</h1>
+                                </div>
+                                <div class="col-xs-1 col-centered">
+                                    <a class="anchorLink showSingle fa fa-minus-square-o fa-2x" data-dismiss="modal"></a>
+                                </div>
+                            </div>
+                            
+                            <div class="row">
+                            <div class="border"></div>
+<!--                            <fieldset>-->
+                                <div class="modal-subheader">
+                                    Please fill out the form completely as all fields are required. <b>Thank you!</b>
+                                </div>
+                                <div class="fname-div rel-form">
+                                    <label class="fa fa-user flat-modal-ui" for="full_name"></label>
+                                    <input class="form-control feedback-input" id="full_name" name="full_name" placeholder="First and Last Name" type="text"> 
+                                    <span class="incomplete" id="incomplete-fname" style="display: none;">Please provide your full name <i class="fa fa-times fa-lg"></i></span> 
+                                    <span class="complete" id="complete-fname" style="display: none;"><i class=" fa fa-check fa-lg"></i></span>
+                                </div>
+                                <div class="phone-div rel-form">
+                                    <label class="fa fa-phone flat-modal-ui" for="phone"></label> 
+                                    <input class="form-control feedback-input" id="phone" name="phone" placeholder="Phone Number" type="text" maxlength="10"> 
+                                    <span class="incomplete" id="incomplete-phone" style="display: none;">Please provide a complete phone number <i class="fa fa-times fa-lg"></i></span> 
+                                    <span class="complete" id="complete-phone" style="display: none;"><i class=" fa fa-check fa-lg"></i></span>
+                                </div>
+                                <div class="email-div rel-form">
+                                    <label class="fa fa-envelope flat-modal-ui" for="email"></label> 
+                                    <input class="form-control feedback-input" id="email" name="email" placeholder="Email Address" type="email" pattern="[^ @]*@[^ @]*"> 
+                                    <span class="incomplete" id="incomplete-email" style="display: none;">Please provide a complete email <i class="fa fa-times fa-lg"></i></span> 
+                                    <span class="complete" id="complete-email" style="display: none;"><i class=" fa fa-check fa-lg"></i></span>
+                                </div>
+                                <div class="comments-div rel-form">
+                                    <label class="fa fa-comment flat-modal-ui" for="comments"></label> 
+                                    <textarea class="form-control feedback-input fi-comments" id="comments" name="comments" placeholder="Description of your job" rows="4"></textarea> 
+                                    <span class="incomplete" id="incomplete-comments" style="display: none;">Please provide a description of your job <i class="fa fa-times fa-lg"></i></span> 
+                                    <span class="complete" id="complete-comments" style="display: none;"><i class=" fa fa-check fa-lg"></i></span>
+                                </div>
+                                <div class="biz_email">
+                                    <div class="input-group">
+                                        <label class="input-group-addon" for="biz_email">Business eMail</label> <input class="form-control" id="biz_email" name="biz_email" placeholder="Business Email Address" type="email">
+                                    </div>
+                                </div>
+
+                                <div id="thanks"></div>
+                                <div id="loading"></div>
+<!--                            </fieldset>-->
+                            </div> <!-- end row -->
+                            
+                            
+                            
+                            <!-- start --------------------------------------------------------------------------------------------->
+
+                            <div class="row" id='article'>
+                                <div class='holder' id="holder" hidden="">
+                                    <div id='holder_helper'>
+                                        <h2 id="holder_helper_title">Drag & Drop your Image here!</h2>
+                                    </div>
+<!--                                   <img id="source_image" class='img_container'  id="source_image"/>-->
+                               
+                                </div>
+                                
+                                
+                                
+                                <div class="image-div rel-form">
+                                    <label class="fa fa-camera flat-modal-ui" for="File1"></label> 
+                                    <input id="uploadFile1" class="form-control feedback-input" placeholder="Upload a Picture of Your Issue" disabled="disabled" accept="image/*" capture="camera" />
+                                    <input type="file" id="File1" class="clsbtn filesInput" accept="image/*" capture="camera" id="picture" name="picture"/>
+                                </div>
+                                <div class="image-div rel-form">
+                                    <label class="fa fa-camera flat-modal-ui" for="File2"></label> 
+                                    <input id="uploadFile2" class="form-control feedback-input" placeholder="Upload a Picture of Your Issue" disabled="disabled" accept="image/*" capture="camera" />
+                                    <input type="file" id="File2" class="clsbtn filesInput" accept="image/*" capture="camera" id="picture" name="picture"/>
+                                </div>
+                                <div class="image-div rel-form">
+                                    <label class="fa fa-camera flat-modal-ui" for="File3"></label> 
+                                    <input id="uploadFile3" class="form-control feedback-input" placeholder="Upload a Picture of Your Issue" disabled="disabled" accept="image/*" capture="camera" />
+                                    <input type="file" id="File3" class="clsbtn filesInput" accept="image/*" capture="camera" id="picture" name="picture"/>
+                                </div>
+                                <div class="image-div rel-form">
+                                    <label class="fa fa-camera flat-modal-ui" for="File4"></label> 
+                                    <input id="uploadFile4" class="form-control feedback-input" placeholder="Upload a Picture of Your Issue" disabled="disabled" accept="image/*" capture="camera" />
+                                    <input type="file" id="File4" class="clsbtn filesInput" accept="image/*" capture="camera" id="picture" name="picture"/>
+                                </div>
+                                
+                                <output id="list"></output>
+                                
+                                <div class='holder' id='holder_result' hidden="">
+                                    <img id="result_imageFile1" class='img_container resultImages' />
+                                    <img id="result_imageFile2" class='img_container resultImages' />
+                                    <img id="result_imageFile3" class='img_container resultImages' />
+                                    <img id="result_imageFile4" class='img_container resultImages' />
+                                </div>
+                                <div class='clear'hidden=""></div>
+                                <div class='col' id='left-col' hidden="">
+                                    <fieldset>
+                                        <legend>Compressor settings</legend>
+                                        <div id="slider-range-min"></div>
+                                        <div id='controls-wrapper'>
+                                            Compression ratio : <input id="jpeg_encode_quality" size='3' readonly='true' type="text" value="40" style="color: black;"/> %
+                                            <div id='buttons-wrapper'>
+                                                <a class='btn btn-large btn-primary' id="jpeg_encode_button">Compress</a>&nbsp;
+                                                <!--              <a class='btn btn-large btn-success' id="jpeg_upload_button">Upload</a>-->
+                                            </div>
+                                        </div>
+                                    </fieldset>
+                                </div>
+                                <div class='col' id='right-col' hidden="">
+                                    <fieldset>
+                                        <legend>Console output</legend>
+                                        <div id='console_out'></div>
+                                    </fieldset>
+                                </div>
+                                <div class='clear' hidden=""></div>
+                            </div>
+
+                            <!-------------------------------------------------------------------------------------------------->
+
+                            <button class="btn btn-success pull-left col-sm-4 col-xs-12" id="jpeg_upload_buttonContact" type="button"><i class="fa fa-check"></i> Send Request</button> 
+                            <span class="col-sm-1 col-xs-12 btn-margin"></span>
+                            <button class="btn btn-warning col-sm-3 col-xs-5" id="reset" type="reset"><i class="fa fa-refresh"></i> Reset</button>
+                            <span class="col-sm-1 col-xs-2"></span>
+                            <button class="btn btn-default pull-right col-sm-3 col-xs-5" data-dismiss="modal" id="close" type="button"><i class="fa fa-times"></i> Close</button>
+                            <!-- <a href="http://polysemicservices.com/templates/single_four/"><button class="btn btn-warning pull-left" id="go-back" style="display: none;" type="button"><i class="fa fa-arrow-left"></i> Go Back</button></a> -->
+                            <div class="clearfix"></div>
+                        </div>
+                        <!-- End of Modal body -->
+                    </form>
+                </div>
+                <!-- End of Modal content -->
+            </div>
+            <!-- End of Modal dialog -->
+            <script> 
+              jQuery(function($){
+                $("#phone").mask("(999) 999-9999");
+              });
+      
+
+		jQuery('.filesInput').change(function(e){
+                	document.getElementById("upload"+e.target.id).value = this.value.substring(12);
+		});
+            </script>
+
+            <script>
+
+
+		jQuery('.filesInput').change(function(e){
+                var files = e.target.files; // FileList object
+		var inId = e.target.id;
+              	var f = files[0];
+                var reader = new FileReader();
+
+                  // Closure to capture the file information.
+                  reader.onload = (function(theFile) {
+                    return function(e) {
+                      // Render thumbnail.
+                      var span = document.createElement('span');
+                      span.innerHTML = ['<img class="thumbnail img_container sourceImages" src="', e.target.result,
+                                        '" title="', escape(theFile.name), '" width="140" height="140"  id="source_image_'+inId+'"/>'].join('');
+
+                  $('#list').append(span);
+              
+                    };
+                  })(f);
+
+                  // Read in the image file as a data URL.
+                  reader.readAsDataURL(f);
+		
+		});
+
+            </script>
+
+<style>
+#list span {
+    float: left;
+}
+</style>
+<script src="js/contact_utils.js"></script>
+<!-- --------------------------------------- end image view ----------------------------------------- --> 
+        
+

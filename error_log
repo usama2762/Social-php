@@ -1,0 +1,3 @@
+
+[19-Jul-2016 15:07:26 America/Detroit] PHP Notice:  Undefined index: cell($row ,23) in /home/ericchaf/public_html/templates/p13/about-body.php on line 82
+[19-Jul-2016 15:13:23 America/Detroit] PHP Notice:  Undefined index: cell($row ,23) in /home/ericchaf/public_html/templates/p13/about-body.php on line 82

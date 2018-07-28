@@ -1,0 +1,167 @@
+
+      <div class="modal-dialog">
+        <div class="modal-content">
+<div class="modal-body">
+	<article class="content-r content-d" id="div3">
+		<div class="row">
+			<div class="col-xs-11">
+				<h1>Coupons and Discounts</h1>
+			</div>
+			<div class="col-xs-1 col-centered">
+				<a class="anchorLink showSingle fa fa-minus-square-o fa-2x" data-dismiss="modal"></a>
+			</div>
+		</div>
+		<div class="border"></div>
+                <div class="row skills">
+                    <div class="col-sm-2 col-xs-4">
+                        <button class="skill btn btn-primary" data-target="all" data-toggle="servicesFilter">All</button>
+                    </div>
+                                                                <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Interior"> Interior</button>
+                        </div>
+                                            <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Exterior"> Exterior</button>
+                        </div>
+                                            <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Plumbing"> Plumbing</button>
+                        </div>
+                                            <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Electrical"> Electrical</button>
+                        </div>
+                                            <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Garages"> Garages</button>
+                        </div>
+                                            <div class="col-sm-2 col-xs-4">
+                            <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Fiverr"> Fiverr</button>
+                        </div>
+                                    </div>
+		<div class="border"></div>
+		<div class="resume">
+			<div id="links">
+				<div id="coupons" data-delegate="#test" data-toggle="services-gallery" data-target="#services-gallery">	
+					<div class="col-sm-4 col-xs-12 col-xs-12" data-tag="all Interior">
+						<div class="img-wrapper padd">
+							<!-- <img alt="one" class="img-responsive" src="/images/portfolio/400x300-3.gif"> -->
+							<div class="post" id="printableArea123456">
+								<div class="center">
+									<div class="coupon-border">
+									<div class="coupon"> 
+										<div class="couponheader-print"><h1>Business Name</h1></div>
+										<div class="couponheader bluecoupon">Test One</div>
+										<div class="coupondiscount">10% Off</div>
+										<div class="couponbody">Any Job</div>
+										<div class="couponphone">Business Phone Number</div>
+										<div class="couponcode"><small>Your Coupon Code:</small><br />123456-000-0000</div>
+										<div class="couponterms">Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.<br /> EXPIRES: 12/12/2016</div> 
+										<input type="button" class="btn btn-success btn-block" onclick="printDiv('printableArea123456')" value="Print Coupon" />
+									</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-4 col-xs-12 col-xs-12" data-tag="all Exterior">
+						<div class="img-wrapper padd">
+							<!-- <img alt="one" class="img-responsive" src="/images/portfolio/400x300-3.gif"> -->
+							<div class="post" id="printableArea9876 jfjhf">
+								<div class="center">
+									<div class="coupon-border">
+									<div class="coupon"> 
+										<div class="couponheader-print"><h1>Business Name</h1></div>
+										<div class="couponheader bluecoupon">Test Three</div>
+										<div class="coupondiscount">$100 Off</div>
+										<div class="couponbody">Some Product</div>
+										<div class="couponphone">Business Phone Number</div>
+										<div class="couponcode"><small>Your Coupon Code:</small><br />9876 jfjhf-000-0000</div>
+										<div class="couponterms">asdkfjhasdjkfh  jhgfjkasgdfj jhasgf jfg<br /> EXPIRES: 07/08/2017</div> 
+										<input type="button" class="btn btn-success btn-block" onclick="printDiv('printableArea9876 jfjhf')" value="Print Coupon" />
+									</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-4 col-xs-12 col-xs-12" data-tag="all Plumbing">
+						<div class="img-wrapper padd">
+							<!-- <img alt="one" class="img-responsive" src="/images/portfolio/400x300-3.gif"> -->
+							<div class="post" id="printableAreatest]">
+								<div class="center">
+									<div class="coupon-border">
+									<div class="coupon"> 
+										<div class="couponheader-print"><h1>Business Name</h1></div>
+										<div class="couponheader bluecoupon">Test Four</div>
+										<div class="coupondiscount">50% Off</div>
+										<div class="couponbody">Whatever</div>
+										<div class="couponphone">Business Phone Number</div>
+										<div class="couponcode"><small>Your Coupon Code:</small><br />test]-000-0000</div>
+										<div class="couponterms">dkfjhsdklfh kalsdfh askldfh kas ldfaskdlfh a s<br /> EXPIRES: 08/30/2017</div> 
+										<input type="button" class="btn btn-success btn-block" onclick="printDiv('printableAreatest]')" value="Print Coupon" />
+									</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-4 col-xs-12 col-xs-12" data-tag="all Electrical">
+						<div class="img-wrapper padd">
+							<!-- <img alt="one" class="img-responsive" src="/images/portfolio/400x300-3.gif"> -->
+							<div class="post" id="printableAreablah 654">
+								<div class="center">
+									<div class="coupon-border">
+									<div class="coupon"> 
+										<div class="couponheader-print"><h1>Business Name</h1></div>
+										<div class="couponheader bluecoupon">Test Five</div>
+										<div class="coupondiscount">FREE Stuff</div>
+										<div class="couponbody">321321321321</div>
+										<div class="couponphone">Business Phone Number</div>
+										<div class="couponcode"><small>Your Coupon Code:</small><br />blah 654-000-0000</div>
+										<div class="couponterms">sdfkljghsdkfljhsd 65465464 65654 <br /> EXPIRES: 10/10/2017</div> 
+										<input type="button" class="btn btn-success btn-block" onclick="printDiv('printableAreablah 654')" value="Print Coupon" />
+									</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="border"></div>
+			<section id="Contact-Row" class="row">
+				<div class="col-md-2 col-sm-2">
+					<h3>Contact Me</h3>
+				</div>
+				<div class="col-md-10 col-sm-10">
+					<div class="rcontent">
+						Can't find what you need done? Contact me to see if it is a service I provide.
+						<div class="row skills">
+							<div class="col-sm-4">
+								<a href="tel:+1-123-456-7890" class="skill btn btn-primary fa fa-phone">123-456-7890</a>
+							</div>
+							<!-- Button to trigger modals -->
+							<div class="col-sm-4">
+								<a data-toggle="modal" href="#myModal"><button class="skill btn btn-alert"><i class="fa fa-money"></i> Free Estimate</button></a>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://dcgold.net/r/schedule/"><button class="skill btn btn-default"><i class="fa fa-calendar"></i> Schedule Service</button></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+	</article>
+</div>
+</div></div>
+<script>
+	function printDiv(divName) {
+		var printContents = document.getElementById(divName).innerHTML;
+		var originalContents = document.body.innerHTML;
+		document.body.innerHTML = printContents;
+    window.location.reload();
+    window.focus();
+		window.print();
+    window.close();
+		document.body.innerHTML = originalContents;
+	}
+</script>

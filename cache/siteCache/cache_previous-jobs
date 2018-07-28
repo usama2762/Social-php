@@ -1,0 +1,2142 @@
+
+
+<div class="modal-dialog">
+    <div class="modal-content">
+		<div class="modal-body">
+			<article class="content-r content-d" id="div2">
+				<div class="row">
+					<div class="col-xs-11">
+						<h1>Previous Jobs and Testimonials</h1>
+					</div>
+					<div class="col-xs-1 col-centered">
+						<a class="anchorLink showSingle fa fa-minus-square-o fa-2x" data-dismiss="modal"></a>
+					</div>
+				</div>
+				<div class="border"></div>
+				<div class="row skills">
+  					<div class="col-sm-2 col-xs-4">
+    					<button class="skill btn btn-primary" data-target="allServices" data-toggle="servicesFilter">All</button>
+      				</div>
+                                                            <div class="col-sm-2 col-xs-4">
+                        <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Interior" > Interior</button>
+                    </div>
+                                        <div class="col-sm-2 col-xs-4">
+                        <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Exterior" > Exterior</button>
+                    </div>
+                                        <div class="col-sm-2 col-xs-4">
+                        <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Plumbing" > Plumbing</button>
+                    </div>
+                                        <div class="col-sm-2 col-xs-4">
+                        <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Electrical" > Electrical</button>
+                    </div>
+                                        <div class="col-sm-2 col-xs-4">
+                        <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Garages" > Garages</button>
+                    </div>
+                                        <div class="col-sm-2 col-xs-4">
+                        <button class="skill btn btn-primary" data-toggle="servicesFilter" data-target="Fiverr" > Fiverr</button>
+                    </div>
+                                    </div>
+				<div class="resume">
+					<div id="links">
+						<div id="Grid" data-delegate="#Grid" data-toggle="services-gallery" data-target="#services-gallery">
+									<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Interior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcSjhQQTl5Wnh0U0k" rel="gallery" title="Project Name 1" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 1</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 2</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 3</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 4</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 5</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE0' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE0'/>
+			                <span>Image 6</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcSjhQQTl5Wnh0U0k"/></div>
+		            <h3><a href="#project-link">Project Name 1</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Interior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 2" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 2</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 3</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 4</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 5</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 6</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE1' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE1'/>
+			                <span>Image 7</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 2</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Interior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 3" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 3</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 4</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 5</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 6</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 7</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE2' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE2'/>
+			                <span>Image 8</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 3</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Interior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 4" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 4</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 5</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 6</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 7</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 8</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE3' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE3'/>
+			                <span>Image 9</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 4</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Exterior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 5" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 5</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 6</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 7</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 8</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 9</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE4' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE4'/>
+			                <span>Image 10</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 5</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Exterior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 6" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 6</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 7</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 8</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 9</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 10</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE5' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE5'/>
+			                <span>Image 11</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 6</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Exterior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 7" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 7</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 8</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 9</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 10</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 11</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE6' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE6'/>
+			                <span>Image 12</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 7</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Exterior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 8" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 8</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 9</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 10</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 11</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 12</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE7' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE7'/>
+			                <span>Image 13</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 8</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Exterior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 9" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 9</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 10</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 11</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 12</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 13</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE8' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE8'/>
+			                <span>Image 14</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 9</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Exterior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 10" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 10</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 11</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 12</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 13</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 14</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE9' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE9'/>
+			                <span>Image 15</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 10</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Exterior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 11" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 11</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 12</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 13</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 14</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 15</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE10' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE10'/>
+			                <span>Image 16</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 11</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Electrical">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 12" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 12</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 13</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 14</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 15</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 16</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE11' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE11'/>
+			                <span>Image 17</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 12</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Electrical">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 13" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 13</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 14</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 15</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 16</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 17</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE12' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE12'/>
+			                <span>Image 18</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 13</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Electrical">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 14" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 14</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 15</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 16</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 17</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 18</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE13' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE13'/>
+			                <span>Image 19</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 14</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Electrical">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 15" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 15</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 16</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 17</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 18</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 19</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE14' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE14'/>
+			                <span>Image 20</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 15</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Electrical">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 16" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 16</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 17</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 18</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 19</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 20</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE15' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE15'/>
+			                <span>Image 21</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 16</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Electrical">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 17" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 17</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 18</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 19</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 20</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 21</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE16' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE16'/>
+			                <span>Image 22</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 17</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Plumbing">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 18" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 18</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 19</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 20</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 21</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 22</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE17' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE17'/>
+			                <span>Image 23</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 18</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Plumbing">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 19" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 19</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 20</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 21</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 22</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 23</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE18' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE18'/>
+			                <span>Image 24</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 19</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Plumbing">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 20" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 20</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 21</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 22</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 23</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 24</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE19' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE19'/>
+			                <span>Image 25</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 20</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Plumbing">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 21" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 21</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 22</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 23</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 24</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 25</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE20' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE20'/>
+			                <span>Image 26</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 21</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Plumbing">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 22" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 22</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 23</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 24</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 25</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 26</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE21' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE21'/>
+			                <span>Image 27</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 22</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Plumbing">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 23" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 23</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 24</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 25</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 26</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 27</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE22' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE22'/>
+			                <span>Image 28</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 23</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Plumbing">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 24" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 24</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 25</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 26</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 27</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 28</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE23' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE23'/>
+			                <span>Image 29</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 24</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Garages">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 25" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 25</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 26</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 27</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 28</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 29</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE24' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE24'/>
+			                <span>Image 30</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 25</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Garages">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 26" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 26</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 27</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 28</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 29</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 30</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE25' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE25'/>
+			                <span>Image 31</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 26</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Garages">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 27" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 27</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 28</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 29</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 30</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 31</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE26' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE26'/>
+			                <span>Image 32</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 27</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Garages">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 28" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 28</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 29</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 30</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 31</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 32</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE27' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE27'/>
+			                <span>Image 33</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 28</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Garages">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 29" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 29</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 30</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 31</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 32</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 33</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE28' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE28'/>
+			                <span>Image 34</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 29</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Garages">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 30" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 30</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 31</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 32</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 33</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 34</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE29' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE29'/>
+			                <span>Image 35</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 30</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Garages">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 31" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 31</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 32</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 33</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 34</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 35</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE30' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE30'/>
+			                <span>Image 36</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 31</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Interior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 32" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 32</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 33</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 34</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 35</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 36</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE31' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE31'/>
+			                <span>Image 37</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 32</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Interior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 33" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 33</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 34</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 35</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 36</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 37</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE32' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE32'/>
+			                <span>Image 38</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 33</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Interior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 34" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 34</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 35</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 36</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 37</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 38</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE33' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE33'/>
+			                <span>Image 39</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 34</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Interior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 35" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 35</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 36</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 37</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 38</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 39</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE34' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE34'/>
+			                <span>Image 40</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 35</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+						<div class="col-sm-4 col-xs-12 col-xs-12 flexbox" data-tag="Interior">
+				<div class="img-wrapper padd col">
+					<a href="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU" rel="gallery" title="Project Name 36" 
+		              data-description="
+			            <div class='slider'>
+			            				                <input type='radio' name='slide_switch' id='id1' checked='checked'/>
+			                <label for='id1'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcM0I3UFVnWWlxWTQ'/>
+			                <span>Image 36</span>
+			                			                <input type='radio' name='slide_switch' id='id2'/>
+			                <label for='id2'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcTzFCWmJ4NTFXdUU'/>
+			                <span>Image 37</span>
+			                			                <input type='radio' name='slide_switch' id='id3'/>
+			                <label for='id3'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcUmcwbmJfbV9XcGs'/>
+			                <span>Image 38</span>
+			                			                <input type='radio' name='slide_switch' id='id4'/>
+			                <label for='id4'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcdnFKVlJpN1hPclk'/>
+			                <span>Image 39</span>
+			                			                <input type='radio' name='slide_switch' id='id5'/>
+			                <label for='id5'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcLWxKNlZtN2V0d1U'/>
+			                <span>Image 40</span>
+			                			                <input type='radio' name='slide_switch' id='id6'/>
+			                <label for='id6'>
+			                	<img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE35' width='100'/>
+			                </label>
+			                <img src='https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcNUdTczdFeVRJUE35'/>
+			                <span>Image 41</span>
+			                			        	</div>
+			            <blockquote cite='' class='test-bub'>
+				            <p>Full Testimonial</p>
+				            <p class='test-quote'>
+				            Name, Location				            </p>
+			            </blockquote>">
+			        </a>
+		            <div class="imgClip"><img alt="one" class="img-responsive" src="https://drive.google.com/uc?export=view&id=0B6pVrAzJPvvcMldWMVVUV2xPOEU"/></div>
+		            <h3><a href="#project-link">Project Name 36</a></h3>
+		            <blockquote cite="" class="test-bub">
+			            <p>... Test Excerpt ...<a href="#">more</a></p>
+			            <p class="test-quote">Name, Location</p>
+		            </blockquote>
+		        </div>
+		    </div>
+									</div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="border"></div>
+								<section id="Contact-Row" class="row">
+				<div class="col-md-2 col-sm-2">
+					<h3>Contact Me</h3>
+				</div>
+				<div class="col-md-10 col-sm-10">
+					<div class="rcontent">
+						Can't find what you need done? Contact me to see if it is a service I provide.
+						<div class="row skills">
+							<div class="col-sm-4">
+								<a href="tel:+1-123-456-7890" class="skill btn btn-primary fa fa-phone">123-456-7890</a>
+							</div>
+							<!-- Button to trigger modals -->
+							<div class="col-sm-4">
+								<a data-toggle="modal" href="#myModal"><button class="skill btn btn-alert"><i class="fa fa-money"></i> Free Estimate</button></a>
+							</div>
+							<div class="col-sm-4">
+								<a href="http://dcgold.net/r/schedule/"><button class="skill btn btn-default"><i class="fa fa-calendar"></i> Schedule Service</button></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+				</div>
+			</article>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+	
+	blueimp.Gallery.prototype.textFactory = function (obj, callback) {
+		var $element = $('<div>')
+		.addClass('text-content')
+		.attr('title', obj.title);
+		$.get(obj.href)
+        .done(function (result) {
+            $element.html(result);
+            callback({
+                type: 'load',
+                target: $element[0]
+			});
+		})
+        .fail(function () {
+            callback({
+                type: 'error',
+                target: $element[0]
+			});
+		});
+		return $element[0];
+	};
+	
+	var flag=1;
+    
+	$("a[data-target=#servicesModal]").click(function (e) {
+		e.preventDefault();
+		//if(flag==1){
+		if($(this).attr("data-title")!="#")
+		{
+		var gallery=blueimp.Gallery([		
+		{title: 'Project Name 1',href: 'detail-modal.php?page=previous/project-name-1',type: 'text/html'},{title: 'Project Name 2',href: 'detail-modal.php?page=previous/project-name-2',type: 'text/html'},{title: 'Project Name 3',href: 'detail-modal.php?page=previous/project-name-3',type: 'text/html'},{title: 'Project Name 4',href: 'detail-modal.php?page=previous/project-name-4',type: 'text/html'},{title: 'Project Name 32',href: 'detail-modal.php?page=previous/project-name-32',type: 'text/html'},{title: 'Project Name 33',href: 'detail-modal.php?page=previous/project-name-33',type: 'text/html'},{title: 'Project Name 34',href: 'detail-modal.php?page=previous/project-name-34',type: 'text/html'},{title: 'Project Name 35',href: 'detail-modal.php?page=previous/project-name-35',type: 'text/html'},{title: 'Project Name 36',href: 'detail-modal.php?page=previous/project-name-36',type: 'text/html'},{title: 'Project Name 5',href: 'detail-modal.php?page=previous/project-name-5',type: 'text/html'},{title: 'Project Name 6',href: 'detail-modal.php?page=previous/project-name-6',type: 'text/html'},{title: 'Project Name 7',href: 'detail-modal.php?page=previous/project-name-7',type: 'text/html'},{title: 'Project Name 8',href: 'detail-modal.php?page=previous/project-name-8',type: 'text/html'},{title: 'Project Name 9',href: 'detail-modal.php?page=previous/project-name-9',type: 'text/html'},{title: 'Project Name 10',href: 'detail-modal.php?page=previous/project-name-10',type: 'text/html'},{title: 'Project Name 11',href: 'detail-modal.php?page=previous/project-name-11',type: 'text/html'},{title: 'Project Name 18',href: 'detail-modal.php?page=previous/project-name-18',type: 'text/html'},{title: 'Project Name 19',href: 'detail-modal.php?page=previous/project-name-19',type: 'text/html'},{title: 'Project Name 20',href: 'detail-modal.php?page=previous/project-name-20',type: 'text/html'},{title: 'Project Name 21',href: 'detail-modal.php?page=previous/project-name-21',type: 'text/html'},{title: 'Project Name 22',href: 'detail-modal.php?page=previous/project-name-22',type: 'text/html'},{title: 'Project Name 23',href: 'detail-modal.php?page=previous/project-name-23',type: 'text/html'},{title: 'Project Name 24',href: 'detail-modal.php?page=previous/project-name-24',type: 'text/html'},{title: 'Project Name 12',href: 'detail-modal.php?page=previous/project-name-12',type: 'text/html'},{title: 'Project Name 13',href: 'detail-modal.php?page=previous/project-name-13',type: 'text/html'},{title: 'Project Name 14',href: 'detail-modal.php?page=previous/project-name-14',type: 'text/html'},{title: 'Project Name 15',href: 'detail-modal.php?page=previous/project-name-15',type: 'text/html'},{title: 'Project Name 16',href: 'detail-modal.php?page=previous/project-name-16',type: 'text/html'},{title: 'Project Name 17',href: 'detail-modal.php?page=previous/project-name-17',type: 'text/html'},{title: 'Project Name 25',href: 'detail-modal.php?page=previous/project-name-25',type: 'text/html'},{title: 'Project Name 26',href: 'detail-modal.php?page=previous/project-name-26',type: 'text/html'},{title: 'Project Name 27',href: 'detail-modal.php?page=previous/project-name-27',type: 'text/html'},{title: 'Project Name 28',href: 'detail-modal.php?page=previous/project-name-28',type: 'text/html'},{title: 'Project Name 29',href: 'detail-modal.php?page=previous/project-name-29',type: 'text/html'},{title: 'Project Name 30',href: 'detail-modal.php?page=previous/project-name-30',type: 'text/html'},{title: 'Project Name 31',href: 'detail-modal.php?page=previous/project-name-31',type: 'text/html'},		], $('#blueimp-gallery').data());
+			if($(this).attr("name")!=0){
+				gallery.slide($(this).attr("name"));
+			}
+		}
+	});
+	$(".anchorLink").click(function (e) {
+	gallery.close();
+	});
+	
+	// Filter 
+    $(document).on("click", ".filter", function (event) {
+        (function ($) {
+            $('.filter').keyup(function () {
+                var rex = new RegExp($(this).val(), 'i');
+                $('.searchable li').hide();
+                $('.searchable li').filter(function () {
+                    return rex.test($(this).text());
+				}).show();
+			})
+		}(jQuery));
+	});
+</script>

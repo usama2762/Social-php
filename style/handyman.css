@@ -1,0 +1,122 @@
+@font-face {
+	font-family: 'Handyman';
+	src: url('fonts/Handyman.eot'),
+         url('fonts/Handyman.woff') format('woff'),
+         url('fonts/Handyman.ttf') format('truetype'),
+         url('fonts/Handyman.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+	font-family: 'Handyman';
+	src: url(data:application/x-font-ttf;charset=utf-8;base64,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) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+#badge {
+    width: 70px;
+    height:70px;
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+}
+
+#overlay {
+    width: 66px;
+    position: absolute;
+    top: 36px;
+    left: 2px;
+    color: rgb(66,66,66);
+    font-size: 9px;
+    z-index: 10;
+    background-color: #F5D24B;
+    border-bottom-left-radius: 59px;
+    border-bottom-right-radius: 59px;
+    line-height:19px;
+    text-align:center;
+    box-shadow:0px -1px 2px -1px rgba(57, 96, 115, 0.5), 3px 0px 0px -1px rgba(57, 96, 115, 0.5), -3px 0px 0px -1px rgba(57, 96, 115, 0.5);
+}
+
+#base a{
+	font-family: 'Handyman';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+display:inline-block;
+color:#fff;
+font-size:22px;
+text-align:center;
+width:60px;
+height:60px;
+line-height:45px;
+border-radius:60px;
+text-shadow:0px 1px 1px rgba(57, 96, 115, 0.5);
+box-shadow: inset 0px 1px 2px -1px rgba(57, 96, 115, 0.5), 0px 1px 0px 1px rgba(57, 96, 115, 0.5);
+-webkit-transition:background 1s ease-in-out;
+-moz-transition:background 1s ease-in-out;
+-o-transition:background 1s ease-in-out;
+transition:background 1s ease-in-out;
+}
+
+.icon-yelp{
+background:#C41200;
+}
+.icon-yelp:before {
+	content: "\e604";
+}
+
+.icon-angieslist{
+background:#29A036;
+}
+.icon-angieslist:before {
+	content: "\e605";
+}
+
+.icon-BBB{
+background:#005A78;
+}
+.icon-BBB:before {
+	content: "\e606";
+}
+
+.icon-Home{
+background:#F99100;
+}
+.icon-Home:before {
+	content: "\e607";
+}
+
+.icon-thumbtack{
+background:#F47503;
+}
+.icon-thumbtack:before {
+	content: "\e600";
+}
+
+.icon-amazonlocal{
+background:#FC9A18;
+}
+.icon-amazonlocal:before {
+	content: "\e602";
+}
+
+.icon-contractors{
+background:#F44A56;
+}
+.icon-contractors:before {
+	content: "\e603";
+}
+
+.icon-1800contractor{
+background:#CA2D1F;
+}
+.icon-1800contractor:before {
+	content: "\e601";
+}
